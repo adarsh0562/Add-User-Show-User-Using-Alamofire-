@@ -1,0 +1,6 @@
+framework module Pods_WebGuruTest {
+  umbrella header "Pods-WebGuruTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
